@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+    color: white;
+}
+
+.html{
+    float: right;
+    width: 50%;
+}
+
+.clear{
+    clear: both;
+}
+
+.css{
+    float: left;
+    width: 50%;
+}
+
+.javascript{
+    float: right;
+    width: 50%;
+}
